@@ -1,0 +1,29 @@
+body {
+  font-family: tahoma;
+  background: #e80c0c;
+  color: green;
+  text-align: center;
+}
+
+header {
+  font-family: sans-serif;
+  text-align: center;
+  background: #25690f;
+  color: white;
+  font-size: 30px;
+}
+
+main {
+  font-family: sans-serif;
+  text-align: center;
+  background: #e3ed1a;
+  color: white;
+  font-size: 30px;
+}
+
+footer {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
